@@ -1,6 +1,5 @@
 # CodeWars Problem Solutions Project
 
-![CodeWars Logo]([https://filpill.github.io/img/codewars/codewars-logo.png])
 
 Welcome to my CodeWars problem solutions project on GitHub! In this repository, you will find a collection of solutions to various challenges I encountered on CodeWars, an online platform for improving your coding skills by solving coding problems.
 
