@@ -1,7 +1,7 @@
 # CodeWars Problem Solutions Project
 
 
-Welcome to my CodeWars problem solutions project on GitHub! In this repository, you will find a collection of solutions to various challenges I encountered on CodeWars, an online platform for improving your coding skills by solving coding problems.
+Welcome to my CodeWars problem solutions project on GitHub! In this repository, you will find a collection of solutions to various challenges I encountered on CodeWars, an online platform for improving your coding skills by solving coding problems..
 
 ## What is CodeWars?
 
